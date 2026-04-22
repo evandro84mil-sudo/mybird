@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "emoji": "🦅",
+    "name": "Harpia",
+    "scientific": "Harpia harpyja",
+    "region": "Amazônia",
+    "categories": ["amazonia"],
+    "tags": ["Vulnerável","Maior Águia"],
+    "description": "A mais poderosa águia das Américas.",
+    "stats": {
+      "Tamanho": "110 cm",
+      "Peso": "9 kg"
+    },
+    "song": "Vocalização aguda",
+    "conservation": "Vulnerável",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Harpy_Eagle.jpg"
+  },
+  {
+    "id": 2,
+    "emoji": "🦜",
+    "name": "Arara-azul",
+    "scientific": "Anodorhynchus hyacinthinus",
+    "region": "Pantanal",
+    "categories": ["pantanal"],
+    "tags": ["Ameaçada","Grande Porte"],
+    "description": "A maior arara do mundo.",
+    "stats": {
+      "Tamanho": "100 cm",
+      "Peso": "1.5 kg"
+    },
+    "song": "Gritos fortes",
+    "conservation": "Vulnerável",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Hyacinth-macaw.jpg"
+  }
+]
