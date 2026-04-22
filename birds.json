@@ -1,36 +1,22 @@
 [
   {
-    "id": 1,
-    "emoji": "🦅",
-    "name": "Harpia",
-    "scientific": "Harpia harpyja",
-    "region": "Amazônia",
-    "categories": ["amazonia"],
-    "tags": ["Vulnerável","Maior Águia"],
-    "description": "A mais poderosa águia das Américas.",
-    "stats": {
-      "Tamanho": "110 cm",
-      "Peso": "9 kg"
-    },
-    "song": "Vocalização aguda",
-    "conservation": "Vulnerável",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Harpy_Eagle.jpg"
+    "name": "Arara Azul",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Hyacinth_macaw.jpg"
   },
   {
-    "id": 2,
-    "emoji": "🦜",
-    "name": "Arara-azul",
-    "scientific": "Anodorhynchus hyacinthinus",
-    "region": "Pantanal",
-    "categories": ["pantanal"],
-    "tags": ["Ameaçada","Grande Porte"],
-    "description": "A maior arara do mundo.",
-    "stats": {
-      "Tamanho": "100 cm",
-      "Peso": "1.5 kg"
-    },
-    "song": "Gritos fortes",
-    "conservation": "Vulnerável",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Hyacinth-macaw.jpg"
+    "name": "Tucano",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Ramphastos_toco_-Foz_do_Iguaçu%2C_Paraná%2C_Brazil-8.jpg"
+  },
+  {
+    "name": "Papagaio",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Amazona_aestiva_-upper_body-8a.jpg"
+  },
+  {
+    "name": "Coruja",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Strix_aluco_-British_Wildlife_Centre-8a.jpg"
+  },
+  {
+    "name": "Flamingo",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Greater_flamingo_2.jpg"
   }
 ]
