@@ -1,14 +1,92 @@
 [
   {
-    "name": "Canário-da-terra",
-    "imageUrl": "https://media.istockphoto.com/id/1484099585/pt/foto/beautiful-saffron-finch-perched-on-a-leaveless-branch-against-defocused-gray-background-serra.jpg?s=1024x1024&w=is&k=20&c=tQNnJVyadjsENSBYtIn2HhcJHtggPUztQosJJbnTKQU="
-  },
-  {
-    "name": "Cardeal-de-bico-amarelo",
-    "imageUrl": "https://media.istockphoto.com/id/1363631291/pt/foto/the-yellow-billed-cardinal-is-a-bird-species-in-the-tanager-family-found-in-the-pantanal-brazil.jpg?s=1024x1024&w=is&k=20&c=HrV_p_W6IA3Hq0lpFw6O97-i3Op-NZAXSE_TGYiGojI="
-  },
-  {
     "name": "Tico-tico",
-    "imageUrl": "https://media.istockphoto.com/id/1200509178/pt/foto/tico-tico.jpg?s=1024x1024&w=is&k=20&c=V_F0AmLAlY0C8PIkzZlvVhabXpvNiV6fhuQTeMcXdH8="
+    "scientificName": "Zonotrichia capensis",
+    "imageUrl": "https://source.unsplash.com/600x400/?sparrow,bird",
+    "type": "passaro"
+  },
+  {
+    "name": "Bem-te-vi",
+    "scientificName": "Pitangus sulphuratus",
+    "imageUrl": "https://source.unsplash.com/600x400/?yellow,bird",
+    "type": "passaro"
+  },
+  {
+    "name": "Sabiá-laranjeira",
+    "scientificName": "Turdus rufiventris",
+    "imageUrl": "https://source.unsplash.com/600x400/?thrush,bird",
+    "type": "passaro"
+  },
+  {
+    "name": "Arara-azul",
+    "scientificName": "Anodorhynchus hyacinthinus",
+    "imageUrl": "https://source.unsplash.com/600x400/?macaw,blue",
+    "type": "passaro"
+  },
+  {
+    "name": "Canário-da-terra",
+    "scientificName": "Sicalis flaveola",
+    "imageUrl": "https://source.unsplash.com/600x400/?canary,bird",
+    "type": "passaro"
+  },
+  {
+    "name": "Tucano",
+    "scientificName": "Ramphastos toco",
+    "imageUrl": "https://source.unsplash.com/600x400/?toucan",
+    "type": "passaro"
+  },
+  {
+    "name": "João-de-barro",
+    "scientificName": "Furnarius rufus",
+    "imageUrl": "https://source.unsplash.com/600x400/?ovenbird,bird",
+    "type": "passaro"
+  },
+  {
+    "name": "Galo-da-serra",
+    "scientificName": "Rupicola rupicola",
+    "imageUrl": "https://source.unsplash.com/600x400/?cock-of-the-rock,bird",
+    "type": "passaro"
+  },
+  {
+    "name": "Coruja-buraqueira",
+    "scientificName": "Athene cunicularia",
+    "imageUrl": "https://source.unsplash.com/600x400/?owl,burrowing",
+    "type": "passaro"
+  },
+  {
+    "name": "Pica-pau",
+    "scientificName": "Melanerpes candidus",
+    "imageUrl": "https://source.unsplash.com/600x400/?woodpecker",
+    "type": "passaro"
+  },
+  {
+    "name": "Garça-branca",
+    "scientificName": "Ardea alba",
+    "imageUrl": "https://source.unsplash.com/600x400/?heron,white",
+    "type": "passaro"
+  },
+  {
+    "name": "Biguá",
+    "scientificName": "Nannopterum brasilianum",
+    "imageUrl": "https://source.unsplash.com/600x400/?cormorant,bird",
+    "type": "passaro"
+  },
+  {
+    "name": "Curió",
+    "scientificName": "Sporophila angolensis",
+    "imageUrl": "https://source.unsplash.com/600x400/?finch,bird",
+    "type": "passaro"
+  },
+  {
+    "name": "Canário-belga",
+    "scientificName": "Serinus canaria domestica",
+    "imageUrl": "https://source.unsplash.com/600x400/?canary,bird,cage",
+    "type": "passaro"
+  },
+  {
+    "name": "Saí-azul",
+    "scientificName": "Dacnis cayana",
+    "imageUrl": "https://source.unsplash.com/600x400/?blue,bird",
+    "type": "passaro"
   }
 ]
