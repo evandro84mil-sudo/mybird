@@ -1,92 +1,98 @@
 [
   {
-    "name": "Tico-tico",
-    "scientificName": "Zonotrichia capensis",
-    "imageUrl": "https://source.unsplash.com/600x400/?sparrow,bird",
-    "type": "passaro"
-  },
-  {
-    "name": "Bem-te-vi",
-    "scientificName": "Pitangus sulphuratus",
-    "imageUrl": "https://source.unsplash.com/600x400/?yellow,bird",
-    "type": "passaro"
-  },
-  {
-    "name": "Sabiá-laranjeira",
-    "scientificName": "Turdus rufiventris",
-    "imageUrl": "https://source.unsplash.com/600x400/?thrush,bird",
-    "type": "passaro"
-  },
-  {
-    "name": "Arara-azul",
-    "scientificName": "Anodorhynchus hyacinthinus",
-    "imageUrl": "https://source.unsplash.com/600x400/?macaw,blue",
-    "type": "passaro"
-  },
-  {
     "name": "Canário-da-terra",
     "scientificName": "Sicalis flaveola",
-    "imageUrl": "https://source.unsplash.com/600x400/?canary,bird",
-    "type": "passaro"
+    "description": "Famoso pelo seu canto forte e melodioso, é uma das aves mais queridas do Brasil. É frequentemente visto no chão à procura de sementes e prefere campos abertos e bordas de matas.",
+    "imageUrl": "https://media.istockphoto.com/id/1484099585/pt/foto/beautiful-saffron-finch-perched-on-a-leaveless-branch-against-defocused-gray-background-serra.jpg?s=1024x1024&w=is&k=20&c=tQNnJVyadjsENSBYtIn2HhcJHtggPUztQosJJbnTKQU="
   },
   {
-    "name": "Tucano",
-    "scientificName": "Ramphastos toco",
-    "imageUrl": "https://source.unsplash.com/600x400/?toucan",
-    "type": "passaro"
+    "name": "Cardeal-de-bico-amarelo",
+    "scientificName": "Paroaria capitata",
+    "description": "Ave de plumagem contrastante com a cabeça vermelha e bico amarelo. Habita principalmente a região do Pantanal, onde se alimenta de insetos, frutas e sementes junto à água.",
+    "imageUrl": "https://media.istockphoto.com/id/1363631291/pt/foto/the-yellow-billed-cardinal-is-a-bird-species-in-the-tanager-family-found-in-the-pantanal-brazil.jpg?s=1024x1024&w=is&k=20&c=HrV_p_W6IA3Hq0lpFw6O97-i3Op-NZAXSE_TGYiGojI="
   },
   {
-    "name": "João-de-barro",
-    "scientificName": "Furnarius rufus",
-    "imageUrl": "https://source.unsplash.com/600x400/?ovenbird,bird",
-    "type": "passaro"
+    "name": "Tico-tico",
+    "scientificName": "Zonotrichia capensis",
+    "description": "Uma das aves mais conhecidas e comuns nos jardins e parques brasileiros. Possui um topete característico e uma coleira avermelhada na nuca. Tem uma dieta muito variada.",
+    "imageUrl": "https://media.istockphoto.com/id/1200509178/pt/foto/tico-tico.jpg?s=1024x1024&w=is&k=20&c=V_F0AmLAlY0C8PIkzZlvVhabXpvNiV6fhuQTeMcXdH8="
   },
   {
-    "name": "Galo-da-serra",
-    "scientificName": "Rupicola rupicola",
-    "imageUrl": "https://source.unsplash.com/600x400/?cock-of-the-rock,bird",
-    "type": "passaro"
+    "name": "Tucano-de-bico-verde",
+    "scientificName": "Ramphastos dicolorus",
+    "description": "Apesar do nome, o seu bico mistura tons de verde, amarelo e vermelho. É menor que o Tucano-toco e vive nas copas das árvores da Mata Atlântica, alimentando-se de frutos silvestres.",
+    "imageUrl": "https://media.istockphoto.com/id/505625400/pt/foto/tucano-na-ramifica%C3%A7%C3%A3o.jpg?s=1024x1024&w=is&k=20&c=YZsbzSofAzmmdu6O4wioJ307EgTP3mDfhZVbgsUZNqA="
   },
   {
-    "name": "Coruja-buraqueira",
-    "scientificName": "Athene cunicularia",
-    "imageUrl": "https://source.unsplash.com/600x400/?owl,burrowing",
-    "type": "passaro"
+    "name": "Pica-pau-de-fronte-amarela",
+    "scientificName": "Melanerpes flavifrons",
+    "description": "Ave muito vistosa, vive em bandos familiares barulhentos. Usa o bico forte para escavar troncos secos à procura de larvas, mas também adora frutas como o mamão e a laranja.",
+    "imageUrl": "https://media.istockphoto.com/id/635871724/pt/foto/pica-pau-de-fronte-amarelo.jpg?s=1024x1024&w=is&k=20&c=8MlaaWhP8f9S3z6psTWsWZSMIDwrUOJYM0cT-hHAkFw="
   },
   {
-    "name": "Pica-pau",
-    "scientificName": "Melanerpes candidus",
-    "imageUrl": "https://source.unsplash.com/600x400/?woodpecker",
-    "type": "passaro"
+    "name": "Arara-canindé",
+    "scientificName": "Ara ararauna",
+    "description": "Também conhecida como arara-de-barriga-amarela. É uma das aves mais inteligentes e exuberantes das florestas tropicais. É capaz de imitar sons e vive aos pares por toda a vida.",
+    "imageUrl": "https://media.istockphoto.com/id/496650234/pt/foto/arara-azul-e-amarela-sobre-a-natureza.jpg?s=1024x1024&w=is&k=20&c=zIUAuzeSHWhemZIVDNlCtrMbH_6ZfyPR5nGdi6lhyfA="
   },
   {
-    "name": "Garça-branca",
-    "scientificName": "Ardea alba",
-    "imageUrl": "https://source.unsplash.com/600x400/?heron,white",
-    "type": "passaro"
+    "name": "Rolieiro-de-peito-lilás",
+    "scientificName": "Coracias caudatus",
+    "description": "Ave exótica de plumagem deslumbrante, famosa pelos seus voos acrobáticos durante o acasalamento. Alimenta-se caçando insetos e pequenos vertebrados a partir de um poleiro alto.",
+    "imageUrl": "https://media.istockphoto.com/id/1691144765/pt/foto/colorful-bird.jpg?s=1024x1024&w=is&k=20&c=9euMNDzd2N_isM6drpyL3hwK3JwcQ_kBeIzPg_WAQ0Q="
   },
   {
-    "name": "Biguá",
-    "scientificName": "Nannopterum brasilianum",
-    "imageUrl": "https://source.unsplash.com/600x400/?cormorant,bird",
-    "type": "passaro"
+    "name": "Beija-flor-rubi",
+    "scientificName": "Clytolaema rubricauda",
+    "description": "Um colibri espetacular endémico do Brasil. O macho apresenta uma mancha iridescente cor de rubi na garganta que brilha intensamente quando reflete a luz do sol.",
+    "imageUrl": "https://media.istockphoto.com/id/2153660672/pt/foto/male-brazilian-ruby-perched-on-a-branch-on-a-green-background.jpg?s=1024x1024&w=is&k=20&c=eHu203gooirSyvqqUjYnmRVN7x_NaxP-ZhaNUzcKpTk="
   },
   {
-    "name": "Curió",
-    "scientificName": "Sporophila angolensis",
-    "imageUrl": "https://source.unsplash.com/600x400/?finch,bird",
-    "type": "passaro"
+    "name": "Coleirinho",
+    "scientificName": "Sporophila caerulescens",
+    "description": "Um pequeno comedor de sementes, muito ágil e rápido. O macho adulto tem um \"colar\" escuro no peito que lhe dá o nome. Canta muito durante a época reprodutiva.",
+    "imageUrl": "https://media.istockphoto.com/id/1344114270/pt/foto/coleiro-brazilian-bird-famous-for-its-song.jpg?s=1024x1024&w=is&k=20&c=MAIEyO90z8a0fBmvu5OL8ErseRJB2sfLKultYhWo3JU="
   },
   {
-    "name": "Canário-belga",
-    "scientificName": "Serinus canaria domestica",
-    "imageUrl": "https://source.unsplash.com/600x400/?canary,bird,cage",
-    "type": "passaro"
+    "name": "Mariquita-de-garganta-ardósia",
+    "scientificName": "Myioborus miniatus",
+    "description": "Pequena ave ativa de florestas de montanha. Tem o hábito peculiar de abrir a cauda em leque enquanto procura insetos entre as folhas para assustar as suas presas.",
+    "imageUrl": "https://media.istockphoto.com/id/2149568408/pt/foto/slate-throated-whitestart-myioborus-miniatus-on-a-branch.jpg?s=1024x1024&w=is&k=20&c=KhuX3USSpbpuha_7no7TpwvtnMp9UgGN5XKGspTYje0="
   },
   {
-    "name": "Saí-azul",
-    "scientificName": "Dacnis cayana",
-    "imageUrl": "https://source.unsplash.com/600x400/?blue,bird",
-    "type": "passaro"
+    "name": "Saíra-dourada",
+    "scientificName": "Tangara arthus",
+    "description": "Ave de copa de floresta que se destaca pelas suas cores intensas. Move-se ativamente pelas folhas e galhos finos à procura de pequenos frutos e insetos.",
+    "imageUrl": "https://media.istockphoto.com/id/2216149414/pt/foto/golden-winged-profile.jpg?s=1024x1024&w=is&k=20&c=qgDJsemL_uCwmffpRTLYKN1JYL4BLPxY_2lmzPYod1w="
+  },
+  {
+    "name": "Sanhaço-cinzento",
+    "scientificName": "Thraupis sayaca",
+    "description": "Muito comum em pomares e jardins, vive sempre à procura de frutas. É conhecido por ser um importante dispersor de sementes nos ambientes que habita.",
+    "imageUrl": "https://media.istockphoto.com/id/2182541246/pt/foto/sayaca-tanager-bird.jpg?s=1024x1024&w=is&k=20&c=dwhJA0izW2RkxOyGtbbViDRtk6ZW_AZUGzIp9diR07g="
+  },
+  {
+    "name": "Tiziu",
+    "scientificName": "Volatinia jacarina",
+    "description": "O macho é inconfundível pelo seu comportamento de dar pequenos saltos no ar enquanto emite o seu canto agudo, mostrando uma mancha branca debaixo da asa.",
+    "imageUrl": "https://media.istockphoto.com/id/1264338247/pt/foto/the-tiziu-is-a-neotropical-bird-of-the-thraupidae-family-that-occurs-from-southern-mexico-to.jpg?s=1024x1024&w=is&k=20&c=eLZ-6GRFjEIJq3CmKNbqKY57yCINadv6QeyIWNNXwhI="
+  },
+  {
+    "name": "Pardal",
+    "scientificName": "Passer domesticus",
+    "description": "A ave urbana mais bem-sucedida do mundo. É extremamente adaptável, construindo ninhos em telhados e alimentando-se praticamente de tudo o que encontra perto do homem.",
+    "imageUrl": "https://media.istockphoto.com/id/520388471/pt/foto/pardal-situada-bem-em-um-jardim-sebe.jpg?s=1024x1024&w=is&k=20&c=Bxa-Mw7N9oQCWVkFv7acgDPtj92ibtmB7xo-M6f9UX0="
+  },
+  {
+    "name": "Pomba-rola",
+    "scientificName": "Columbina talpacoti",
+    "description": "Também conhecida como rolinha-caldo-de-feijão, devido à cor avermelhada do macho. Passa muito tempo no chão a debicar sementes e poeira.",
+    "imageUrl": "https://media.istockphoto.com/id/1325796601/pt/foto/well-ive-seen-you.jpg?s=1024x1024&w=is&k=20&c=baUPtNSzqUhNAlwpU5dRijOvFzCpk1rZPpNYvrYPrGU="
+  },
+  {
+    "name": "Calopsita",
+    "scientificName": "Nymphicus hollandicus",
+    "description": "Originária da Austrália, é uma ave dócil e inteligente, muito procurada como animal de estimação. Usa a crista no topo da cabeça para expressar o seu estado de espírito.",
+    "imageUrl": "https://media.istockphoto.com/id/1322972243/pt/foto/cockatiel-parrot.jpg?s=1024x1024&w=is&k=20&c=3wQlmcCAUpJIuRS8xTvYNoFQWZAEuwXSFx7-nRYy-rI="
   }
 ]
