@@ -1,22 +1,14 @@
 [
   {
-    "name": "Arara Azul",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Hyacinth_macaw.jpg"
+    "name": "Canário-da-terra",
+    "imageUrl": "https://media.istockphoto.com/id/1484099585/pt/foto/beautiful-saffron-finch-perched-on-a-leaveless-branch-against-defocused-gray-background-serra.jpg?s=1024x1024&w=is&k=20&c=tQNnJVyadjsENSBYtIn2HhcJHtggPUztQosJJbnTKQU="
   },
   {
-    "name": "Tucano",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Ramphastos_toco_-Foz_do_Iguaçu%2C_Paraná%2C_Brazil-8.jpg"
+    "name": "Cardeal-de-bico-amarelo",
+    "imageUrl": "https://media.istockphoto.com/id/1363631291/pt/foto/the-yellow-billed-cardinal-is-a-bird-species-in-the-tanager-family-found-in-the-pantanal-brazil.jpg?s=1024x1024&w=is&k=20&c=HrV_p_W6IA3Hq0lpFw6O97-i3Op-NZAXSE_TGYiGojI="
   },
   {
-    "name": "Papagaio",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Amazona_aestiva_-upper_body-8a.jpg"
-  },
-  {
-    "name": "Coruja",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Strix_aluco_-British_Wildlife_Centre-8a.jpg"
-  },
-  {
-    "name": "Flamingo",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Greater_flamingo_2.jpg"
+    "name": "Tico-tico",
+    "imageUrl": "https://media.istockphoto.com/id/1200509178/pt/foto/tico-tico.jpg?s=1024x1024&w=is&k=20&c=V_F0AmLAlY0C8PIkzZlvVhabXpvNiV6fhuQTeMcXdH8="
   }
 ]
